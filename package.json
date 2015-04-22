@@ -1,0 +1,34 @@
+{
+  "name": "sand-memcache",
+  "version": "1.0.0",
+  "description": "Sand.js Memcache Plugin",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "/usr/bin/node --es_staging test/demo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pocketly/sand-memcache.git"
+  },
+  "keywords": [
+    "sand",
+    "memcache",
+    "memcached",
+    "caching"
+  ],
+  "author": "Adam Jaso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pocketly/sand-memcache/issues"
+  },
+  "homepage": "https://github.com/pocketly/sand-memcache#readme",
+  "dependencies": {
+    "lodash": "^3.7.0",
+    "memcached": "^2.1.0",
+    "sand-grain": "^1.0.0"
+  },
+  "devDependencies": {
+    "co": "^4.5.2",
+    "sand": "^1.0.1"
+  }
+}
