@@ -1,6 +1,6 @@
 {
   "name": "sand-memcache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sand.js Memcache Plugin",
   "main": "lib/index.js",
   "scripts": {
